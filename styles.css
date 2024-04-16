@@ -1,0 +1,44 @@
+html,body{
+    background-color: black;
+    font-family: Arial;
+    
+    }
+   .move-icon{
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+    background-color: transparent;
+    border: none;
+    border-radius: 20px;
+    color: hwb(56 0% 0%);
+
+   }
+   p{
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+   }
+   button{
+    border-radius: 10px;
+    color: black;
+    height: 85px;
+    width: 85px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+   
+
+   }
+   .container {
+  text-align: center; 
+   }
+   .reset-score-button{
+    height: 55px;
+    width: 85px;
+    
+   }
